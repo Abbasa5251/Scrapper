@@ -1,17 +1,29 @@
-# **StackoverFlow Scrapper**
+# **StackOverflow Scrapper**
 
 ## **Getting Started**
 
-### Install required Modules
+### Installing Python Virtualenv
 
-```bash
-pipenv install
+```ps1
+pip install virtualenv
+```
+
+### Create Virtual Environment
+
+```ps1
+python -m venv env
 ```
 
 ### Activate _virtual environment_
 
-```bash
-pipenv shell
+```ps1
+.\env\Scripts\activate
+```
+
+### Install required Modules
+
+```ps1
+pip install -r requirements.txt
 ```
 
 ### Scrapping Stack Overflow
