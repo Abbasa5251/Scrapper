@@ -1,5 +1,7 @@
 # **StackOverflow Scrapper**
 
+[![GitHub issues](https://img.shields.io/github/issues/Abbasa5251/Scrapper?color=green&label=Issues)](https://github.com/Abbasa5251/Scrapper/issues) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Abbasa5251/Scrapper?label=Code%20Size) ![GitHub followers](https://img.shields.io/github/followers/Abbasa5251?style=social)
+
 ## **Getting Started**
 
 ### Installing Python Virtualenv
